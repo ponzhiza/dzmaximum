@@ -1,0 +1,35 @@
+# dzmaximum
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Мой сайт</title>
+</head>
+<body>
+    <h1>Всем привет!</h1>
+    <h2>Еще один текст.</h2>
+    <h3>Текст поменьше.</h3>
+
+    <p class="paragraph-1"> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Quam voluptatum tempore quasi suscipit a esse quidem aut nam? Eum, esse?
+        Inventore incidunt corrupti ratione hic suscipit assumenda voluptatem molestiae voluptate.
+    </p>
+
+    <p class="paragraph-2"> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Quam voluptatum tempore quasi suscipit a esse quidem aut nam? Eum, esse?
+        Inventore incidunt corrupti ratione hic suscipit assumenda voluptatem molestiae voluptate.
+    </p>
+
+    <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Voluptatum maiores pariatur excepturi molestias at, veritatis eaque dignissimos sequi porro enim tempore facilis alias mollitia inventore ducimus, harum nesciunt?
+        Suscipit, ducimus.
+    </span>
+
+    <ul>
+        <li>Первый элемент списка</li>
+        <li>Второй элемент списка</li>
+        <li>Третий элемент списка</li>
+    </ul>
+    <img src="https://avatars.mds.yandex.net/i?id=203ab72ced54004af62c3fd1a7276988069902d2-9181674-images-thumbs&n=13">
+</body>
+</html>
