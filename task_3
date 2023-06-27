@@ -1,0 +1,53 @@
+# dzmaximum
+#page_1
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Вход</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <h1>Log in</h1>
+
+        <form action="https://echo.htmlacademy.ru" method="post">
+            <label for="login">Введите логин</label>
+            <input type="text" name="login" id="login">
+            <br><br>
+
+            <label for="password">Введите пароль</label>
+            
+            <input type="text" name="password" id="password">
+        </form>
+
+        <ul class="nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="page_2.html">Log up</a>
+    </body>
+</html>
+#page_2
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Регистрация</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <h1>Log up</h1>
+
+        <form action="https://echo.htmlacademy.ru" method="post">
+            <label for="login">Придумайте логин</label>
+            <input type="text" name="login" id="login">
+            <br><br>
+
+            <label for="password">Придумайте пароль</label>
+            
+            <input type="text" name="password" id="password">
+        </form>
+
+        <ul class="nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="page_1.html">Log in</a>
+    </body>
+</html>
